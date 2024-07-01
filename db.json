@@ -1,0 +1,18 @@
+{
+  "colaboradores": [
+    {
+      "nome": "Lázaro Rocha",
+      "cargo": "Desenvolvedor React",
+      "time": "Front-End",
+      "imagem": "https://github.com/lazarosantos1011.png",
+      "id": 1
+    },
+    {
+      "nome": "PatoLoco",
+      "cargo": "Assassino de galinhas",
+      "time": "Programação",
+      "imagem": "https://w1.pngwing.com/pngs/340/835/png-transparent-chicken-knife-chicken-as-food-tshirt-kitchen-knives-chicken-sandwich-sticker-crew-neck-thumbnail.png",
+      "id": 2
+    }
+  ]
+}
